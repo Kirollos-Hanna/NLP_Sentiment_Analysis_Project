@@ -17,3 +17,4 @@ Use the FastText embedding as feature vectors and test the performance in the or
 
 ## Notes
 1. Finished task 1 (Kiro)
+2. Finished task 4 (Teo)
