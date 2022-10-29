@@ -18,3 +18,12 @@ Use the FastText embedding as feature vectors and test the performance in the or
 ## Notes
 1. Finished task 1 (Kiro)
 2. Finished task 4 (Teo)
+3. Finished task 10 (Kiro)
+4. Finished task 9 (Kiro)
+5. Finished task 6 (Kiro)
+6. Finished task 5 (Kiro)
+7. Finished task 4 (Kiro)
+8. Finished task 3 (Kiro)
+9. Finished task 2 (Kiro)
+10. Finished task 7 (Teo & Kiro)
+11. Finished task 8 (Kiro)
