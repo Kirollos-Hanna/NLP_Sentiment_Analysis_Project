@@ -27,3 +27,10 @@ Use the FastText embedding as feature vectors and test the performance in the or
 9. Finished task 2 (Kiro)
 10. Finished task 7 (Teo & Kiro)
 11. Finished task 8 (Kiro)
+
+## How to run the project
+- run `pip install -r requirements.txt`
+- download jupyter-lab
+- `cd` into the current directory
+- run `jupyter-lab`
+- run all the code blocks inside RestaurantReviewSentimentAnalysis jupyter notebook file
